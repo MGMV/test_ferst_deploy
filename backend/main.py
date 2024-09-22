@@ -35,7 +35,7 @@ app.add_middleware(
     allow_origins=[
         # "http://localhost:5173",
         # "http://31.129.43.117",
-        "http://45.12.19.6",
+        "http://movlar-dev.ru",
     ],
     allow_credentials=True,
     allow_methods=["*"],
